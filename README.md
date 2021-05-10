@@ -12,7 +12,7 @@
 <br />
 ### Spotify Playing 🎧
 
-[<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2020/02/Spotify_ProductMarketing_UIRefresh_GIFs_v03_022120_SR_ShuffleButton_NoLogo-2.gif" alt="Laksh Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DXd05hd2jmMZL)
+[<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2020/02/Spotify_ProductMarketing_UIRefresh_GIFs_v03_022120_SR_ShuffleButton_NoLogo-2.gif" alt="Laksh Spotify Playing" width="250px" height="100px" />] Click on the logo for my playlist!!(https://open.spotify.com/playlist/37i9dQZF1DXd05hd2jmMZL)
 <br />
 ### Connect with me:
 
