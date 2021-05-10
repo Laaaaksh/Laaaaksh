@@ -18,6 +18,24 @@
 [<img align="left" alt="Laksh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Laksh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+---
+
+### 📕 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Trial Blog](https://dev.to/laaaaksh/trial-blog-2096)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://iet.nitk.ac.in/blog/)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Laksh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Laaaaksh&show_icons=true&hide_border=true" />
+
+</details>
 
 [name]: https://iet.nitk.ac.in/
 [packedlama_website]: https://github.com/packedlama
