@@ -14,16 +14,15 @@
 
 [<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2020/02/Spotify_ProductMarketing_UIRefresh_GIFs_v03_022120_SR_ShuffleButton_NoLogo-2.gif" alt="Laksh Spotify Playing" width="100px" height="100px" />](https://open.spotify.com/playlist/37i9dQZF1DXd05hd2jmMZL)
 <br />
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Laksh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Laksh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Laksh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Laksh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-# 🧧Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🧧Latest Blog Posts
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 [name]: https://iet.nitk.ac.in/
 [packedlama_website]: https://github.com/packedlama
 [twitter]: https://twitter.com/SadhwaniLaksh
