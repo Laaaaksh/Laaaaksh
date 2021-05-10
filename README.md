@@ -1,4 +1,4 @@
-### Hi there, Laksh Sadhwani - aka [packedlama][packedlama_website] 👋
+### Hi there, I'm Laksh Sadhwani - aka [packedlama][packedlama_website] 👋
 
 ## I'm a Student, Developer, and Learner!!
 
@@ -7,9 +7,7 @@
 - 👯 I’m looking forward to collaborate with developers and work on some great projects 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and guitar / piano
-
 <br />
-
 ## Spotify Playing🎧
 
 [<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2020/02/Spotify_ProductMarketing_UIRefresh_GIFs_v03_022120_SR_ShuffleButton_NoLogo-2.gif" alt="Laksh Spotify Playing" width="100px" height="100px" />](https://open.spotify.com/playlist/37i9dQZF1DXd05hd2jmMZL)
