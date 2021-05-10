@@ -30,7 +30,7 @@
 
 🎇Github Stats             |  🎇Top Languages
 :-------------------------:|:-------------------------:
-![Laksh's Github stats](https://github-readme-stats.vercel.app/api?username=Laaaaksh) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaaaksh&layout=compact)
+![Laksh's Github stats](https://github-readme-stats.vercel.app/api?username=Laaaaksh&theme=tokyonight) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaaaksh&layout=compact&theme=tokyonight)
 
 </details>
 
