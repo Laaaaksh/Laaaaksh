@@ -1,6 +1,7 @@
 ### Hi there, I'm Laksh Sadhwani - aka [packedlama][packedlama_website] 👋
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200">
 
+![Profile_views](https://komarev.com/ghpvc/?username=Laaaaksh&label=PROFILE+VIEWS&color=blueviolet)
 ## I'm a Student, Developer, and Learner!!
 
 - 🔭 I am a member of the [IET_NITK][name]!
