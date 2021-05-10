@@ -4,7 +4,7 @@
 
 - 🔭 I am a member of the [IET_NITK][name]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with developers and work on some great projects 
+- 👯 I’m looking forward to collaborate with developers and work on some great projects 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and guitar / piano
 
@@ -21,8 +21,10 @@
 [<img align="left" alt="Laksh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Laksh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+
 ## 🧧Latest Blog Posts
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
 [name]: https://iet.nitk.ac.in/
 [packedlama_website]: https://github.com/packedlama
 [twitter]: https://twitter.com/SadhwaniLaksh
