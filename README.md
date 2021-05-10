@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Learner!!
 
-- 🔭 I am a member of the IET:[course]!
+- 🔭 I am a member of the IET:[name]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with developers and work on some great projects 
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -25,7 +25,7 @@
 # 🧧Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+[name]: https://iet.nitk.ac.in/
 [packedlama_website]: https://github.com/packedlama
 [twitter]: https://twitter.com/SadhwaniLaksh
 [youtube]: https://www.youtube.com/channel/UCgzro82JOs4b6a41nMsqghA/featured
