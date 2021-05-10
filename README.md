@@ -1,4 +1,5 @@
 ### Hi there, I'm Laksh Sadhwani - aka [packedlama][packedlama_website] 👋
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200">
 
 ## I'm a Student, Developer, and Learner!!
 
@@ -11,7 +12,7 @@
 ## Spotify Playing🎧
 
 [<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2020/02/Spotify_ProductMarketing_UIRefresh_GIFs_v03_022120_SR_ShuffleButton_NoLogo-2.gif" alt="Laksh Spotify Playing" width="100px" height="100px" />](https://open.spotify.com/playlist/37i9dQZF1DXd05hd2jmMZL)
-## Connect with me:
+## Connect with me 🎎:
 
 [<img align="left" alt="Laksh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Laksh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -27,10 +28,9 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Laksh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Laaaaksh&show_icons=true&hide_border=true" />
+🎇Github Stats             |  🎇Top Languages
+:-------------------------:|:-------------------------:
+![Laksh's Github stats](https://github-readme-stats.vercel.app/api?username=Laaaaksh) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaaaksh&layout=compact)
 
 </details>
 
