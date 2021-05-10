@@ -9,8 +9,7 @@
 - ⚡ Fun fact: I love to play games and guitar / piano
 
 <br />
-<br />
-### Spotify Playing 🎧
+### Spotify Playing🎧
 
 [<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2020/02/Spotify_ProductMarketing_UIRefresh_GIFs_v03_022120_SR_ShuffleButton_NoLogo-2.gif" alt="Laksh Spotify Playing" width="100px" height="100px" />](https://open.spotify.com/playlist/37i9dQZF1DXd05hd2jmMZL)
 <br />
@@ -24,8 +23,8 @@
 <br />
 # 🧧Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-Yet to write a blog :(
 <!-- BLOG-POST-LIST:END -->
+Yet to write a blog :(
 [name]: https://iet.nitk.ac.in/
 [packedlama_website]: https://github.com/packedlama
 [twitter]: https://twitter.com/SadhwaniLaksh
