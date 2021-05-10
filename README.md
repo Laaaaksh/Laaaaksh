@@ -23,11 +23,8 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trial Blog](https://dev.to/laaaaksh/trial-blog-2096)
+- [One step to Bucket List Journey](https://iet.nitk.ac.in/blog/shimla-trip)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://iet.nitk.ac.in/blog/)
-
 ---
 
 <details>
