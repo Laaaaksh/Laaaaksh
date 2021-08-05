@@ -39,5 +39,5 @@
 [packedlama_website]: https://github.com/packedlama
 [twitter]: https://twitter.com/SadhwaniLaksh
 [youtube]: https://www.youtube.com/channel/UCgzro82JOs4b6a41nMsqghA/featured
-[instagram]: https://www.instagram.com/lakshokay/
-[linkedin]: https://www.linkedin.com/in/laksh-sadhwani-342692183/
+[instagram]: https://www.instagram.com/rikposty/
+[linkedin]: https://www.linkedin.com/in/sadhwanilaksh/
