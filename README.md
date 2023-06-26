@@ -2,13 +2,11 @@
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200">
 
 ![Profile_views](https://komarev.com/ghpvc/?username=Laaaaksh&label=PROFILE+VIEWS&color=blueviolet)
-## I'm a Student, Developer, and Learner!!
+## I'm a Developer!
 
-- 🔭 I am a member of the [IET_NITK][name]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Currently working at [Razorpay]
 - 👯 I’m looking forward to collaborate with developers and work on some great projects 
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games and guitar / piano
+- ⚡ Fun fact: I also do music and play games
 
 ## Spotify Playing🎧
 
