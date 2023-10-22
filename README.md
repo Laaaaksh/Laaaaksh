@@ -2,10 +2,10 @@
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200">
 
 ![Profile_views](https://komarev.com/ghpvc/?username=Laaaaksh&label=PROFILE+VIEWS&color=blueviolet)
-## I'm a Developer!
+## Backend Engineer | Management
 
-- 🔭 Currently working at [Razorpay]
-- 👯 I’m looking forward to collaborate with you'll and work on some great projects!
+🚀 Presently rocketing through the fintech world at Razorpay!
+🤝 Excitedly seeking incredible collaborative opportunities with you all to embark on amazing projects together!
 
 ## Connect with me 🎎:
 [<img align="left" alt="Laksh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
