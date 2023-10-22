@@ -4,7 +4,7 @@
 ![Profile_views](https://komarev.com/ghpvc/?username=Laaaaksh&label=PROFILE+VIEWS&color=blueviolet)
 ## Backend Engineer | Management
 
-🚀 Presently rocketing through the fintech world at Razorpay!
+🚀 Presently rocketing through the fintech world at Razorpay! <br />
 🤝 Excitedly seeking incredible collaborative opportunities with you all to embark on amazing projects together!
 
 ## Connect with me 🎎:
