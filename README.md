@@ -7,10 +7,6 @@
 🚀 Presently rocketing through the fintech world at Razorpay! <br />
 🤝 Excitedly seeking incredible collaborative opportunities with you all to embark on amazing projects together!
 
-## Connect with me 🎎:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
----
-
 🎇Github Stats             |  🎇Top Languages
 :-------------------------:|:-------------------------:
 ![Laksh's Github stats](https://github-readme-stats.vercel.app/api?username=Laaaaksh&theme=tokyonight) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaaaksh&layout=compact&theme=tokyonight)
