@@ -33,7 +33,10 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and push SVGs
+        env:
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git add images/breakout-light.svg images/breakout-dark.svg
           git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
-          git push
+          git push origin HEAD:master
