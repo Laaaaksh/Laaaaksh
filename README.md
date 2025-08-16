@@ -1,30 +1,37 @@
-### Hi there, I'm Laksh Sadhwani - aka [packedlama][packedlama_website] 👋
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200">
+# 👋 Hi, I'm Laksh Sadhwani  
 
-![Profile_views](https://komarev.com/ghpvc/?username=Laaaaksh&label=PROFILE+VIEWS&color=blueviolet)
-## Backend Engineer | Management
+**Backend Engineer @ [Razorpay](https://razorpay.com/)**  
+⚡ Specializing in distributed systems, payments infra, and scalable backend architectures.  
+💡 Passionate about building reliable fintech systems and exploring AI-driven engineering solutions.  
 
-🚀 Presently rocketing through the fintech world at Razorpay! <br />
-🤝 Excitedly seeking incredible collaborative opportunities with you all to embark on amazing projects together!
+---
 
+## 🛠 Tech Stack  
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)  
+![Postgres](https://img.shields.io/badge/-Postgres-336791?logo=postgresql&logoColor=white&style=flat)  
+
+---
+
+## 🎮 Fun Section  
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
-🎇Github Stats             |  🎇Top Languages
-:-------------------------:|:-------------------------:
-![Laksh's Github stats](https://github-readme-stats.vercel.app/api?username=Laaaaksh&theme=tokyonight) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaaaksh&layout=compact&theme=tokyonight)
+---
 
-</details>
+## 📊 GitHub Analytics  
 
-[name]: https://iet.nitk.ac.in/
-[packedlama_website]: https://github.com/packedlama
-[linkedin]: https://www.linkedin.com/in/sadhwanilaksh/
+| Stats | Top Languages |
+|-------|---------------|
+| ![Laksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laaaaksh&theme=tokyonight&show_icons=true&hide_title=true&count_private=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaaaksh&layout=compact&theme=tokyonight) |
+
+---
+
+## 🤝 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laksh%20Sadhwani-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sadhwanilaksh/)  
+[![GitHub](https://img.shields.io/badge/GitHub-packedlama-black?logo=github&style=flat)](https://github.com/packedlama)  
