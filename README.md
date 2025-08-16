@@ -23,6 +23,11 @@
 :-------------------------:|:-------------------------:
 ![Laksh's Github stats](https://github-readme-stats.vercel.app/api?username=Laaaaksh&theme=tokyonight) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaaaksh&layout=compact&theme=tokyonight)
 
+---
+
+## 🔗 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laksh%20Sadhwani-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sadhwanilaksh/)
+
 </details>
 
 [name]: https://iet.nitk.ac.in/
