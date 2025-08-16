@@ -7,6 +7,18 @@
 🚀 Presently rocketing through the fintech world at Razorpay! <br />
 🤝 Excitedly seeking incredible collaborative opportunities with you all to embark on amazing projects together!
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 🎇Github Stats             |  🎇Top Languages
 :-------------------------:|:-------------------------:
 ![Laksh's Github stats](https://github-readme-stats.vercel.app/api?username=Laaaaksh&theme=tokyonight) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaaaksh&layout=compact&theme=tokyonight)
