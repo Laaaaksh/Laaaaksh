@@ -23,6 +23,11 @@
 :-------------------------:|:-------------------------:
 ![Laksh's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Laaaaksh&theme=tokyonight&show_icons=true&cache_seconds=86400) | ![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Laaaaksh&layout=compact&theme=tokyonight&cache_seconds=86400)
 
+---
+
+## 🔗 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laksh%20Sadhwani-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sadhwanilaksh/)
+
 </details>
 
 [name]: https://iet.nitk.ac.in/
