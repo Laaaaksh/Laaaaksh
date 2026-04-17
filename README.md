@@ -2,11 +2,10 @@
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200">
 
 ![Profile_views](https://komarev.com/ghpvc/?username=Laaaaksh&label=PROFILE+VIEWS&color=blueviolet)
-## Backend Engineer | Management
+## Entrepreneur · Content Creator 
 
-🚀 Presently rocketing through the fintech world at Razorpay! <br />
-🤝 Excitedly seeking incredible collaborative opportunities with you all to embark on amazing projects together!
-
+**Want to build something in tech? Or just want to talk?**  
+laksh.sadhwani07@gmail.com
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
