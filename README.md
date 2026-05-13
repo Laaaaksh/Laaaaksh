@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200">
 
 ![Profile_views](https://komarev.com/ghpvc/?username=Laaaaksh&label=PROFILE+VIEWS&color=blueviolet)
-## Entrepreneur · Content Creator 
+## Backend Developer
 
 **Want to build something in tech? Or just want to talk?**  
 laksh.sadhwani07@gmail.com
