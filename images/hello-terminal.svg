@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150" role="img" aria-labelledby="helloTitle">
+  <title id="helloTitle">how old is your github profile? — click to find out</title>
+  <rect x="0.5" y="0.5" width="519" height="149" rx="11" fill="#0d1117" stroke="#30363d"/>
+  <line x1="0.5" y1="36.5" x2="519.5" y2="36.5" stroke="#21262d"/>
+  <circle cx="22" cy="18.5" r="6" fill="#ff5f56"/>
+  <circle cx="41" cy="18.5" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="18.5" r="6" fill="#27c93f"/>
+  <text x="260" y="23" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b949e">laksh@github: ~</text>
+  <text x="26" y="68" font-family="ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3" dx="7">hello --ask</tspan></text>
+  <text x="26" y="94" font-family="ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e6edf3">&#8250; how old is your github profile?</text>
+  <text x="26" y="120" font-family="ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#3fb950">&#8250; find out</text>
+  <rect x="106" y="107" width="8.5" height="16" rx="1.5" fill="#3fb950">
+    <animate attributeName="visibility" values="visible;hidden" keyTimes="0;0.5" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+</svg>
