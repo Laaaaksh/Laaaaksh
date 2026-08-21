@@ -2,7 +2,7 @@
 
 # Laksh Sadhwani
 
-· building cool stuff · ehm
+building cool stuff · ehm
 
 <a href="https://laaaaksh.github.io/hello/">
   <img src="images/hello-terminal.svg" alt="how old is your github profile? find out" width="440">
