@@ -2,7 +2,7 @@
 
 # Laksh Sadhwani
 
-Senior AI Backend Engineer · building the agentic SDLC
+· building cool stuff · ehm
 
 <a href="https://laaaaksh.github.io/hello/">
   <img src="images/hello-terminal.svg" alt="how old is your github profile? find out" width="440">
