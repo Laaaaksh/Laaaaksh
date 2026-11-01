@@ -1,6 +1,6 @@
 <div align="center">
 
-# Laksh Sadhwani
+# laksh
 
 · building [vessel](https://github.com/attentionfs/vessel) and a handful of other things ·
 
